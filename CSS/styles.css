@@ -33,7 +33,9 @@ hr {
   width: 4%;
   margin: 100px auto;
 }
-
+.hr breakpoint {
+  padding-bottom: 20px;
+}
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
